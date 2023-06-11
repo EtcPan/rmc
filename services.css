@@ -59,6 +59,7 @@ h3{
 }
 .card p{
     position: absolute;
+    font-size: 16px;
 }
 .card1_text, 
 .card4_text{
