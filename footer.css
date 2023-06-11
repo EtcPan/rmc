@@ -1,0 +1,25 @@
+h5{
+    font-size: 20px;
+}
+.visit1 p{
+    color: #ABAEB7;
+    font-size: 16px;
+}
+.visit{
+    background-color: #1E1E26;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.visit2{
+    background-color: #ABAEB7;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    /* text-align: center; */
+}
+footer{
+    width: auto;
+    height: auto;
+}

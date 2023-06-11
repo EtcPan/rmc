@@ -1,0 +1,10 @@
+.photo{
+    display: flex;
+}
+.img__photo{
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+.photo_img{
+    margin-left: 136px;
+}
